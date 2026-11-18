@@ -210,7 +210,7 @@ It also introduces rule-based decision-making and simplified perceptron calculat
 
 ---
 
-##  Project Credits
+## 👩‍💻 Project Credits
 
 **Developed as part of the AI Internship Program at Nexbridge Technologies.**
 
